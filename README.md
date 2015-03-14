@@ -1,4 +1,4 @@
-spectopandrioid01
+#SpectopAndroid
 =================
 
-This is the first repo I creat or Android.
+- 我的安卓代码库，用于提交安卓代码
